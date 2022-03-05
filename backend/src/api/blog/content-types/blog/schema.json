@@ -78,12 +78,6 @@
       "relation": "manyToOne",
       "target": "api::category.category",
       "inversedBy": "blogs"
-    },
-    "related_blogs": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::blog.blog",
-      "inversedBy": "blogs"
     }
   }
 }
