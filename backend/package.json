@@ -2,9 +2,9 @@
   "name": "backend",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "Backend Strapi application for solmediaco.com",
   "scripts": {
-    "develop": "strapi develop",
+    "dev": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi"
@@ -18,7 +18,7 @@
     "strapi-plugin-comments": "^2.0.9"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Chris Wray"
   },
   "strapi": {
     "uuid": "8bb6c7d4-6659-4b1f-a94d-070c570b542d"
